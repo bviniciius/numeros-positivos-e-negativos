@@ -6,19 +6,19 @@
     
 </head>
 <body>
-    <h1>NÚMEROS POSITIVOS E NEGATIVOS 🎰</h1>
+       <h1>NÚMEROS POSITIVOS E NEGATIVOS 🎰</h1>
 </body>
 </html>
 
 
 
 
-----------------------------------------------------------------------------------
+
 
 
 ## :house_with_garden: SOBRE O PROJETO
 
-É um sistema que tem como função indicar ao usuário quais sãos os números positivos e negativos, separando os números em ordem. 
+It is a system whose function is to indicate to the user which numbers are positive and negative, separating the numbers in order.
   
 
 ## Language and tools
