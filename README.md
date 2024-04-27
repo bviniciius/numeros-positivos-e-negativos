@@ -18,8 +18,18 @@
 
 ## :house_with_garden: SOBRE O PROJETO
 
-It is a system whose function is to indicate to the user which numbers are positive and negative, separating the numbers in order.
+É um sistema que tem como função indicar ao usuário quais números são positivos e negativos, separando os números em ordem.
+
+O usuário pode escolher quantos números ele irá colocar no programa. 
+
+No vídeo abaixo, coloquei apenas 8 números para demonstração.
+
+
   
+
+
+https://github.com/bviniciius/numeros-positivos-e-negativos/assets/136538931/33d128a1-5097-4651-bae9-f68d16111904
+
 
 ## Language and tools
 
